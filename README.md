@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SekavArielight
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning React JS 
 - 💞️ I’m looking to collaborate on amazing projects that solve real life problems.
 - 📫 How to reach me: godswillapya@gmail.com 
 - 😄 Pronouns: ...
