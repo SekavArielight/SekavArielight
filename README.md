@@ -15,10 +15,7 @@ I am a passionate *Front-End Web Developer* and *Instructor* with expertise in c
 ## 🛠 Tech Stack  
 
 *Languages & Frameworks:*  
-- HTML | CSS | JavaScript | React (in progress) | Tailwind CSS | Java (fundamentals)  
-
-*Front-End Development:*  
-- Responsive Web Design | Flexbox | CSS Grid | Bootstrap  
+- HTML | CSS | JavaScript | React (in progress) | Tailwind CSS | Java (fundamentals)   
 
 *Version Control & Collaboration:*  
 - Git | GitHub 
