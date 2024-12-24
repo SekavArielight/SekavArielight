@@ -41,8 +41,8 @@ I am a passionate *Front-End Web Developer* and *Instructor* with expertise in c
 
 ## 🌐 Connect With Me  
 
-- LinkedIn: [God'swill Sekav Apya](#)  
-- Portfolio: [https://sekav.netlify.app/](#)  
+- LinkedIn: [God'swill Sekav Apya](#https://www.linkedin.com/in/god-swill-sekav-apya-bb1b57307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- Portfolio: [https://sekav.netlify.app/](#https://sekav.netlify.app/)  
 - Email: [godswillapya@gmail.com](mailto:godswillapya@gmail.com)  
 
 ---
