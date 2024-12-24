@@ -1,10 +1,57 @@
-- 👋 Hi, I’m @SekavArielight
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React JS 
-- 💞️ I’m looking to collaborate on amazing projects that solve real life problems.
-- 📫 How to reach me: godswillapya@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love beans.
+# Hi, I'm [God'swill Sekav Apya] 👋
+
+## 👨‍💻 About Me  
+
+I am a passionate *Front-End Web Developer* and *Instructor* with expertise in creating responsive, user-friendly websites and seamless digital experiences. Alongside development, I enjoy teaching and mentoring aspiring developers, helping them turn ideas into reality.  
+
+### 🌟 What I Do  
+- Build modern, responsive websites tailored to client needs  
+- Provide web development training and mentorship  
+- Continuously explore new tools and technologies to stay at the forefront of web development  
+- *Looking to collaborate on amazing projects that solve real-life problems*  
+
+---
+
+## 🛠 Tech Stack  
+
+*Languages & Frameworks:*  
+- HTML | CSS | JavaScript | React (in progress) | Tailwind CSS | Java (fundamentals)  
+
+*Front-End Development:*  
+- Responsive Web Design | Flexbox | CSS Grid | Bootstrap  
+
+*Version Control & Collaboration:*  
+- Git | GitHub 
+
+*Tools & Platforms:*  
+- Visual Studio Code | Sublime Text | Atom  
+- npm | Yarn 
+- Netlify | Vercel | GitHub Pages| Hostinger  
+
+*Design & Prototyping (Developer Use):*  
+- Figma | Canva  
+
+*APIs & Data Handling:*  
+- JSON 
+
+*Testing & Debugging:*  
+- Chrome Developer Tools 
+
+*Performance Optimization:*  
+- Basic SEO  
+
+---
+
+## 🌐 Connect With Me  
+
+- LinkedIn: [God'swill Sekav Apya](#)  
+- Portfolio: [https://sekav.netlify.app/](#)  
+- Email: [godswillapya@gmail.com](mailto:godswillapya@gmail.com)  
+
+---
+
+## 💡 Fun Fact  
+"A commit a day keeps the debugger away!"
 
 <!---
 SekavArielight/SekavArielight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
