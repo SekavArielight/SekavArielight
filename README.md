@@ -1,56 +1,76 @@
-# Hi, I'm [God'swill Sekav Apya] 👋
+# 👋 Hi there, I'm God'swill Sekav Apya
 
-## 👨‍💻 About Me  
-
-I am a passionate *Front-End Web Developer* and *Instructor* with expertise in creating responsive, user-friendly websites and seamless digital experiences. Alongside development, I enjoy teaching and mentoring aspiring developers, helping them turn ideas into reality.  
-
-### 🌟 What I Do  
-- Build modern, responsive websites tailored to client needs  
-- Provide web development training and mentorship  
-- Continuously explore new tools and technologies to stay at the forefront of web development  
-- *Looking to collaborate on amazing projects that solve real-life problems*  
+🚀 Software Developer | Web Engineer | Mentor | Lifelong Learner  
+📍 Based in Nigeria | 🌐 Open to remote opportunities
 
 ---
 
-## 🛠 Tech Stack  
+## 🧑‍💻 About Me
 
-*Languages & Frameworks:*  
-- HTML | CSS | JavaScript | React (in progress) | Tailwind CSS | Java (fundamentals)   
+I’m a software developer with a strong passion for writing clean, scalable code and solving real-world problems through technology. I’ve built and deployed production-level websites, collaborated in remote teams, and mentored over 25 aspiring developers in modern web development.
 
-*Version Control & Collaboration:*  
-- Git | GitHub 
-
-*Tools & Platforms:*  
-- Visual Studio Code | Sublime Text | Atom  
-- npm | Yarn 
-- Netlify | Vercel | GitHub Pages| Hostinger  
-
-*Design & Prototyping (Developer Use):*  
-- Figma | Canva  
-
-*APIs & Data Handling:*  
-- JSON 
-
-*Testing & Debugging:*  
-- Chrome Developer Tools 
-
-*Performance Optimization:*  
-- Basic SEO  
+Currently, I work as a Lead Developer at Spark Innovation Hub and a Frontend Intern at InternPulse, while deepening my expertise in backend technologies as I grow into a full stack developer.
 
 ---
 
-## 🌐 Connect With Me  
+## 💡 What I Do
 
-- LinkedIn: [God'swill Sekav Apya](#https://www.linkedin.com/in/god-swill-sekav-apya-bb1b57307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Portfolio: [https://sekav.netlify.app/](#https://sekav.netlify.app/)  
-- Email: [godswillapya@gmail.com](mailto:godswillapya@gmail.com)  
+- ✅ Build responsive, accessible UIs with React, Next.js & Tailwind CSS  
+- ✅ Collaborate in teams using Git, GitHub, and Agile workflows  
+- ✅ Integrate APIs and handle dynamic, real-time data  
+- ✅ Mentor junior developers with hands-on code support  
+- ✅ Constantly learn new technologies and contribute to meaningful projects
 
 ---
 
-## 💡 Fun Fact  
-"A commit a day keeps the debugger away!"
+## 🛠 Tech Stack
 
-<!---
-SekavArielight/SekavArielight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages & Frameworks:**  
+JavaScript · TypeScript · React · Next.js · Node.js · HTML · CSS
+
+**UI & Styling:**  
+Tailwind CSS · Shadcn UI · Figma
+
+**Tools & Platforms:**  
+Git · GitHub · Vercel · Netlify · Hostinger · npm · yarn 
+
+**Learning:**  
+Express.js · MongoDB · Full stack architecture
+
+---
+
+## 🚧 Projects
+
+### [MarketPulse – Crypto & Stock Tracker](https://github.com/SekavArielight/marketpulse-dashboard)
+> A responsive dashboard app that displays real-time crypto and stock market data using third-party APIs.  
+> Tech: Next.js · TypeScript · Tailwind CSS · Shadcn UI
+
+### [AI Math Solver](https://github.com/SekavArielight/math_ai)
+> A Node.js application that uses Google Gemini API and OCR to solve handwritten math problems from images.
+
+### [Client Websites](https://sparkinnovationhub.com | https://rcnuyo.org)
+> Built SEO-optimized websites for organizations like Spark Innovation Hub and RCN Uyo to boost digital visibility and outreach.
+
+---
+
+## ✨ Soft Skills
+
+- Effective communication & remote collaboration  
+- Mentorship & empathetic leadership  
+- Creative problem-solving  
+- Accountability & self-motivation  
+- Adaptability & continuous learning
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [Portfolio](https://sekav.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/god-swill-sekav-apya-bb1b57307/)  
+- 🐙 [GitHub](https://github.com/SekavArielight)  
+- 📧 godswillapya@gmail.com
+
+---
+
+> 💬 “Building clean software, mentoring others, and learning every single day.”
+
