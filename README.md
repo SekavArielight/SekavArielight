@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm God'swill Sekav Apya
 
 🚀 Software Developer | Web Engineer | Mentor | Lifelong Learner  
-📍 Based in Nigeria | 🌐 Open to remote opportunities
+📍 Based in Nigeria | 🌐 Open to opportunities
 
 ---
 
@@ -9,7 +9,7 @@
 
 I’m a software developer with a strong passion for writing clean, scalable code and solving real-world problems through technology. I’ve built and deployed production-level websites, collaborated in remote teams, and mentored over 25 aspiring developers in modern web development.
 
-Currently, I work as a Lead Developer at Spark Innovation Hub and a Frontend Intern at InternPulse, while deepening my expertise in backend technologies as I grow into a full stack developer.
+Currently, I work as a Lead Developer at Spark Innovation Hub, while deepening my expertise in backend technologies as I grow into a full stack developer.
 
 ---
 
