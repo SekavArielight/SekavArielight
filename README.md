@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm God'swill Sekav Apya
 
-🚀 Software Developer | Web Engineer | Mentor | Lifelong Learner  
-📍 Based in Nigeria | 🌐 Open to opportunities
+🚀 Software Developer | Web Engineer | Mentor  
+Lifelong Learner | 🌐 Open to opportunities
 
 ---
 
