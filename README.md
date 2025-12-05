@@ -26,7 +26,7 @@ Currently, I work as a Lead Developer at Spark Innovation Hub, while deepening m
 ## 🛠 Tech Stack
 
 **Languages & Frameworks:**  
-JavaScript · TypeScript · React · Next.js · Node.js · HTML · CSS
+Golang · JavaScript · TypeScript · React · Next.js · Node.js · HTML · CSS
 
 **UI & Styling:**  
 Tailwind CSS · Shadcn UI · Figma
