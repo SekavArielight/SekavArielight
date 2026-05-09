@@ -1,5 +1,5 @@
 # About Me:
-Loves exploring technologies deeply
+I love exploring technologies deeply.
 
 
 ## Socials:
